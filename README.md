@@ -13,7 +13,7 @@ I'm working on improving my code quality by mastering the **MVVM Architecture**.
 ## 🌱 Learning & Growth
 - **MVVM Architecture:** To enhance code maintainability and testability.
 - **Advanced WebRTC:** For seamless integration of audio/video calling features in Android apps.
-- **UI/UX Design:** Incorporating Material Design principles for a better user experience.
+- **Jetpack Compose:** New way of designing UI to stay up to date with modern technology.
 
 ## 💼 Experience
 - **Android Development:** Expertise in Kotlin, Java, Gradle, and Android SDK.
