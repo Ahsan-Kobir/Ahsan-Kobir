@@ -42,7 +42,7 @@ Feel free to reach out if you want to collaborate on projects, need help with An
 ## 📈 GitHub Stats
 ![Ahsan's GitHub Stats](https://githubstats-kappa.vercel.app/api?username=Ahsan-Kobir&show_icons=true&theme=radical)
 
-![Ahsan-Kobir's Streak](https://githubstats-kappa.vercel.app/api?user=Ahsan-Kobir&theme=radical&hide_border=false)
+![Ahsan-Kobir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Kobir&theme=radical&hide_border=false)
 
 ## 🚀 My Goals
 - Contribute to open-source Android projects.
