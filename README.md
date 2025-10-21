@@ -4,8 +4,9 @@
 I am a **Tech Enthusiast** and **Android Developer**. With a passion for mobile app development, I have been honing my skills in Android development, focusing on building high-quality, user-friendly applications.
 
 ## 🔭 Current Focus
-I'm working on improving my code quality by mastering the **MVVM Architecture**. My projects often involve:
+I'm working on improving my code quality by mastering the **Clean Architecture** and applying **SOLID** principles. My projects often involve:
 - **Jetpack Compose** as UI design toolkit
+- **Kotlin/Compose Multiplatform** to share code between multiple platforms
 - **Kotlin** and **Java** for Android app development
 - **WebRTC** for real-time communication
 - **Firebase** for backend services
