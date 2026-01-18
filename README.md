@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Md Ahsan Kabir
-
 ## About Me
 I am a **Tech Enthusiast** and **Android Developer**. With a passion for mobile app development, I have been honing my skills in Android development, focusing on building high-quality, user-friendly applications.
 
@@ -42,10 +40,6 @@ Feel free to reach out if you want to collaborate on projects, need help with An
 - [Email](mailto:kobirmdahsan@gmail.com)
 - [GitHub](https://github.com/Ahsan-Kobir)
 
-## 📈 GitHub Stats
-![Ahsan's GitHub Stats](https://githubstats-kappa.vercel.app/api?username=Ahsan-Kobir&show_icons=true&theme=radical)
-
-![Ahsan-Kobir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Kobir&theme=radical&hide_border=false)
 
 ## 🚀 My Goals
 - Contribute to open-source Android projects.
